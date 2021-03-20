@@ -1,525 +1,320 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://yummy.soerenschneider.com/receipes/butternutsquash-curry/</loc>
+    <lastmod>2021-03-20T21:43:37+01:00</lastmod>
+  </url><url>
+    <loc>https://yummy.soerenschneider.com/tags/curry/</loc>
+    <lastmod>2021-03-20T21:43:37+01:00</lastmod>
+  </url><url>
+    <loc>https://yummy.soerenschneider.com/tags/indian/</loc>
+    <lastmod>2021-03-20T21:43:37+01:00</lastmod>
+  </url><url>
+    <loc>https://yummy.soerenschneider.com/tags/pumpkin/</loc>
+    <lastmod>2021-03-20T21:43:37+01:00</lastmod>
+  </url><url>
+    <loc>https://yummy.soerenschneider.com/receipes/</loc>
+    <lastmod>2021-03-20T21:43:37+01:00</lastmod>
+  </url><url>
+    <loc>https://yummy.soerenschneider.com/tags/slowcooker/</loc>
+    <lastmod>2021-03-20T21:43:37+01:00</lastmod>
+  </url><url>
+    <loc>https://yummy.soerenschneider.com/tags/squash/</loc>
+    <lastmod>2021-03-20T21:43:37+01:00</lastmod>
+  </url><url>
+    <loc>https://yummy.soerenschneider.com/tags/</loc>
+    <lastmod>2021-03-20T21:43:37+01:00</lastmod>
+  </url><url>
+    <loc>https://yummy.soerenschneider.com/</loc>
+    <lastmod>2021-03-20T21:43:37+01:00</lastmod>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/asian/</loc>
     <lastmod>2021-02-22T13:03:48+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/categories/</loc>
     <lastmod>2021-02-22T13:03:48+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/receipes/dal-lemon-rice/</loc>
     <lastmod>2021-02-22T13:03:48+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/lentils/</loc>
     <lastmod>2021-02-22T13:03:48+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/categories/main/</loc>
     <lastmod>2021-02-22T13:03:48+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yummy.soerenschneider.com/receipes/</loc>
-    <lastmod>2021-02-22T13:03:48+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yummy.soerenschneider.com/tags/slowcooker/</loc>
-    <lastmod>2021-02-22T13:03:48+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yummy.soerenschneider.com/tags/</loc>
-    <lastmod>2021-02-22T13:03:48+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/vegetables/</loc>
     <lastmod>2021-02-22T13:03:48+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/vegetarian/</loc>
     <lastmod>2021-02-22T13:03:48+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yummy.soerenschneider.com/</loc>
-    <lastmod>2021-02-22T13:03:48+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/oriental/</loc>
     <lastmod>2021-02-20T10:46:22+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/receipes/oriental-lentil-soup/</loc>
     <lastmod>2021-02-20T10:46:22+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/soup/</loc>
     <lastmod>2021-02-20T10:46:22+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/eggplant/</loc>
     <lastmod>2020-12-21T09:43:07+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/roasted/</loc>
     <lastmod>2020-12-21T09:43:07+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/receipes/roasted-eggplant/</loc>
     <lastmod>2020-12-21T09:43:07+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/vegan/</loc>
     <lastmod>2020-12-21T09:43:07+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/coffee/</loc>
     <lastmod>2020-12-21T09:30:12+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/dessert/</loc>
     <lastmod>2020-12-21T09:30:12+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/categories/dessert/</loc>
     <lastmod>2020-12-21T09:30:12+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/italian/</loc>
     <lastmod>2020-12-21T09:30:12+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/receipes/tiramisu/</loc>
     <lastmod>2020-12-21T09:30:12+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/christmas/</loc>
     <lastmod>2020-12-18T14:29:17+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/receipes/elisenlebkuchen/</loc>
     <lastmod>2020-12-18T14:29:17+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/german/</loc>
     <lastmod>2020-12-18T14:29:17+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/sweets/</loc>
     <lastmod>2020-12-18T14:29:17+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/categories/sweets/</loc>
     <lastmod>2020-12-18T14:29:17+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/traditional/</loc>
     <lastmod>2020-12-18T14:29:17+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/receipes/butter-cookies/</loc>
     <lastmod>2020-12-07T15:57:05+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/cookies/</loc>
     <lastmod>2020-12-07T15:57:05+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/matcha/</loc>
     <lastmod>2020-12-07T15:57:05+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/vanilla/</loc>
     <lastmod>2020-12-07T15:57:05+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/easy/</loc>
     <lastmod>2020-12-05T14:19:44+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/fast/</loc>
     <lastmod>2020-12-05T14:19:44+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/receipes/sp%C3%A4tzle/</loc>
     <lastmod>2020-12-05T14:19:44+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/receipes/doriyaki/</loc>
     <lastmod>2020-12-01T10:03:51+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/honey/</loc>
     <lastmod>2020-12-01T10:03:51+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/japanese/</loc>
     <lastmod>2020-12-01T10:03:51+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/coconut/</loc>
     <lastmod>2020-11-22T15:54:47+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yummy.soerenschneider.com/tags/curry/</loc>
-    <lastmod>2020-11-22T15:54:47+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/receipes/lentil-curry/</loc>
     <lastmod>2020-11-22T15:54:47+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/spinach/</loc>
     <lastmod>2020-11-22T15:54:47+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/cake/</loc>
     <lastmod>2020-10-31T10:38:12+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/hazelnut/</loc>
     <lastmod>2020-10-31T10:38:12+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/receipes/hazelnutcake/</loc>
     <lastmod>2020-10-31T10:38:12+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/receipes/dal-bhat/</loc>
     <lastmod>2020-10-25T23:21:46+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yummy.soerenschneider.com/tags/indian/</loc>
-    <lastmod>2020-10-25T23:21:46+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/rice/</loc>
     <lastmod>2020-10-25T23:21:46+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/receipes/coconut-ice/</loc>
     <lastmod>2020-07-07T12:38:38+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/ice-cream/</loc>
     <lastmod>2020-07-07T12:38:38+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/beans/</loc>
     <lastmod>2020-07-07T11:49:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/receipes/burrito-bowl/</loc>
     <lastmod>2020-07-07T11:49:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/cheese/</loc>
     <lastmod>2020-07-07T11:49:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/main-course/</loc>
     <lastmod>2020-07-07T11:49:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/mexican/</loc>
     <lastmod>2020-07-07T11:49:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/chickpeas/</loc>
     <lastmod>2020-07-07T11:41:32+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/receipes/indian-pumpkin-chickpea-curry/</loc>
     <lastmod>2020-07-07T11:41:32+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yummy.soerenschneider.com/tags/pumpkin/</loc>
-    <lastmod>2020-07-07T11:41:32+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/cucumber/</loc>
     <lastmod>2020-07-07T11:18:39+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/korean/</loc>
     <lastmod>2020-07-07T11:18:39+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/receipes/korean-cucumber-salad/</loc>
     <lastmod>2020-07-07T11:18:39+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/salad/</loc>
     <lastmod>2020-07-07T11:18:39+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/side-dish/</loc>
     <lastmod>2020-07-07T11:18:39+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/categories/side-dish/</loc>
     <lastmod>2020-07-07T11:18:39+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/caramel/</loc>
     <lastmod>2020-07-05T14:44:52+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/receipes/salt-caramel-cream/</loc>
     <lastmod>2020-07-05T14:44:52+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/sauce/</loc>
     <lastmod>2020-07-05T14:44:52+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/receipes/ice-cream/</loc>
     <lastmod>2020-07-05T14:32:22+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/bolognese/</loc>
     <lastmod>2020-07-05T11:43:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/pasta/</loc>
     <lastmod>2020-07-05T11:43:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/receipes/vegetarian-bolognese/</loc>
     <lastmod>2020-07-05T11:43:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/receipes/salsa/</loc>
     <lastmod>2020-07-05T11:38:18+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/categories/sauce/</loc>
     <lastmod>2020-07-05T11:38:18+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/receipes/seasoned-soy-sauce/</loc>
     <lastmod>2020-07-05T11:38:18+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/snack/</loc>
     <lastmod>2020-07-05T11:38:18+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/spicy/</loc>
     <lastmod>2020-07-05T11:38:18+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/mushroom/</loc>
     <lastmod>2020-07-05T11:32:34+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/receipes/mushroom-risotto/</loc>
     <lastmod>2020-07-05T11:32:34+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/risotto/</loc>
     <lastmod>2020-07-05T11:32:34+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/receipes/do-chua/</loc>
     <lastmod>2020-07-05T11:29:33+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/vietnamese/</loc>
     <lastmod>2020-07-05T11:29:33+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/tofu/</loc>
     <lastmod>2020-07-05T11:27:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/receipes/banh-mi/</loc>
     <lastmod>2020-07-05T11:27:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/receipes/flammkuchen/</loc>
     <lastmod>2020-07-05T11:25:23+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/receipes/stuffed-sweetpotatoe/</loc>
     <lastmod>2019-07-05T11:40:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/sweetpotatoe/</loc>
     <lastmod>2019-07-05T11:40:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/receipes/garlic-sesame-noodles/</loc>
     <lastmod>2018-06-21T13:22:55+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/noodles/</loc>
     <lastmod>2018-06-21T13:22:55+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/sesame/</loc>
     <lastmod>2018-06-21T13:22:55+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/receipes/sweetpotatoe-soup/</loc>
     <lastmod>2018-01-27T12:53:04+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/chicken/</loc>
     <lastmod>2017-12-26T00:42:52+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/receipes/indian-butter-chicken/</loc>
     <lastmod>2017-12-26T00:42:52+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/meat/</loc>
     <lastmod>2017-12-26T00:42:52+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/bread/</loc>
     <lastmod>2017-12-26T00:10:12+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/receipes/naan/</loc>
     <lastmod>2017-12-26T00:10:12+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yummy.soerenschneider.com/receipes/indian-curry/</loc>
-    <lastmod>2017-12-25T23:56:16+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/dough/</loc>
     <lastmod>2017-12-25T01:00:12+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/pizza/</loc>
     <lastmod>2017-12-25T01:00:12+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/receipes/pizza-dough/</loc>
     <lastmod>2017-12-25T01:00:12+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/receipes/lentil-soup/</loc>
     <lastmod>2017-12-25T00:34:41+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/banana/</loc>
     <lastmod>2017-12-25T00:21:46+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/receipes/banana-chocolate-bread/</loc>
     <lastmod>2017-12-25T00:21:46+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/chocolate/</loc>
     <lastmod>2017-12-25T00:21:46+01:00</lastmod>
   </url>
-  
 </urlset>
