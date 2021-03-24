@@ -7,7 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Sören Schneider</copyright>
-    <lastBuildDate>Sat, 20 Mar 2021 21:43:37 +0100</lastBuildDate><atom:link href="https://yummy.soerenschneider.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Mar 2021 08:16:58 +0100</lastBuildDate><atom:link href="https://yummy.soerenschneider.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cheese</title>
+      <link>https://yummy.soerenschneider.com/tags/cheese/</link>
+      <pubDate>Tue, 23 Mar 2021 08:16:58 +0100</pubDate>
+      
+      <guid>https://yummy.soerenschneider.com/tags/cheese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>french</title>
+      <link>https://yummy.soerenschneider.com/tags/french/</link>
+      <pubDate>Tue, 23 Mar 2021 08:16:58 +0100</pubDate>
+      
+      <guid>https://yummy.soerenschneider.com/tags/french/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>onions</title>
+      <link>https://yummy.soerenschneider.com/tags/onions/</link>
+      <pubDate>Tue, 23 Mar 2021 08:16:58 +0100</pubDate>
+      
+      <guid>https://yummy.soerenschneider.com/tags/onions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>soup</title>
+      <link>https://yummy.soerenschneider.com/tags/soup/</link>
+      <pubDate>Tue, 23 Mar 2021 08:16:58 +0100</pubDate>
+      
+      <guid>https://yummy.soerenschneider.com/tags/soup/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>curry</title>
       <link>https://yummy.soerenschneider.com/tags/curry/</link>
@@ -95,15 +131,6 @@
       <pubDate>Sat, 20 Feb 2021 10:46:22 +0100</pubDate>
       
       <guid>https://yummy.soerenschneider.com/tags/oriental/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>soup</title>
-      <link>https://yummy.soerenschneider.com/tags/soup/</link>
-      <pubDate>Sat, 20 Feb 2021 10:46:22 +0100</pubDate>
-      
-      <guid>https://yummy.soerenschneider.com/tags/soup/</guid>
       <description></description>
     </item>
     
@@ -320,15 +347,6 @@
       <pubDate>Tue, 07 Jul 2020 11:49:16 +0200</pubDate>
       
       <guid>https://yummy.soerenschneider.com/tags/beans/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cheese</title>
-      <link>https://yummy.soerenschneider.com/tags/cheese/</link>
-      <pubDate>Tue, 07 Jul 2020 11:49:16 +0200</pubDate>
-      
-      <guid>https://yummy.soerenschneider.com/tags/cheese/</guid>
       <description></description>
     </item>
     
