@@ -342,38 +342,20 @@
     </item>
     
     <item>
-      <title>beans</title>
-      <link>https://yummy.soerenschneider.com/tags/beans/</link>
-      <pubDate>Tue, 07 Jul 2020 11:49:16 +0200</pubDate>
+      <title>chickpeas</title>
+      <link>https://yummy.soerenschneider.com/tags/chickpeas/</link>
+      <pubDate>Tue, 07 Jul 2020 11:41:32 +0200</pubDate>
       
-      <guid>https://yummy.soerenschneider.com/tags/beans/</guid>
+      <guid>https://yummy.soerenschneider.com/tags/chickpeas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>main course</title>
       <link>https://yummy.soerenschneider.com/tags/main-course/</link>
-      <pubDate>Tue, 07 Jul 2020 11:49:16 +0200</pubDate>
-      
-      <guid>https://yummy.soerenschneider.com/tags/main-course/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mexican</title>
-      <link>https://yummy.soerenschneider.com/tags/mexican/</link>
-      <pubDate>Tue, 07 Jul 2020 11:49:16 +0200</pubDate>
-      
-      <guid>https://yummy.soerenschneider.com/tags/mexican/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>chickpeas</title>
-      <link>https://yummy.soerenschneider.com/tags/chickpeas/</link>
       <pubDate>Tue, 07 Jul 2020 11:41:32 +0200</pubDate>
       
-      <guid>https://yummy.soerenschneider.com/tags/chickpeas/</guid>
+      <guid>https://yummy.soerenschneider.com/tags/main-course/</guid>
       <description></description>
     </item>
     
@@ -446,6 +428,15 @@
       <pubDate>Sun, 05 Jul 2020 11:43:14 +0200</pubDate>
       
       <guid>https://yummy.soerenschneider.com/tags/pasta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mexican</title>
+      <link>https://yummy.soerenschneider.com/tags/mexican/</link>
+      <pubDate>Sun, 05 Jul 2020 11:38:18 +0200</pubDate>
+      
+      <guid>https://yummy.soerenschneider.com/tags/mexican/</guid>
       <description></description>
     </item>
     
