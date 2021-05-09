@@ -7,7 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Sören Schneider</copyright>
-    <lastBuildDate>Fri, 26 Mar 2021 12:48:25 +0100</lastBuildDate><atom:link href="https://yummy.soerenschneider.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 May 2021 21:53:38 +0200</lastBuildDate><atom:link href="https://yummy.soerenschneider.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>curry</title>
+      <link>https://yummy.soerenschneider.com/tags/curry/</link>
+      <pubDate>Sun, 09 May 2021 21:53:38 +0200</pubDate>
+      
+      <guid>https://yummy.soerenschneider.com/tags/curry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>indian</title>
+      <link>https://yummy.soerenschneider.com/tags/indian/</link>
+      <pubDate>Sun, 09 May 2021 21:53:38 +0200</pubDate>
+      
+      <guid>https://yummy.soerenschneider.com/tags/indian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lentils</title>
+      <link>https://yummy.soerenschneider.com/tags/lentils/</link>
+      <pubDate>Sun, 09 May 2021 21:53:38 +0200</pubDate>
+      
+      <guid>https://yummy.soerenschneider.com/tags/lentils/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sweetpotatoe</title>
+      <link>https://yummy.soerenschneider.com/tags/sweetpotatoe/</link>
+      <pubDate>Sun, 09 May 2021 21:53:38 +0200</pubDate>
+      
+      <guid>https://yummy.soerenschneider.com/tags/sweetpotatoe/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>dessert</title>
       <link>https://yummy.soerenschneider.com/tags/dessert/</link>
@@ -72,24 +108,6 @@
     </item>
     
     <item>
-      <title>curry</title>
-      <link>https://yummy.soerenschneider.com/tags/curry/</link>
-      <pubDate>Sat, 20 Mar 2021 21:43:37 +0100</pubDate>
-      
-      <guid>https://yummy.soerenschneider.com/tags/curry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>indian</title>
-      <link>https://yummy.soerenschneider.com/tags/indian/</link>
-      <pubDate>Sat, 20 Mar 2021 21:43:37 +0100</pubDate>
-      
-      <guid>https://yummy.soerenschneider.com/tags/indian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>pumpkin</title>
       <link>https://yummy.soerenschneider.com/tags/pumpkin/</link>
       <pubDate>Sat, 20 Mar 2021 21:43:37 +0100</pubDate>
@@ -122,15 +140,6 @@
       <pubDate>Mon, 22 Feb 2021 13:03:48 +0100</pubDate>
       
       <guid>https://yummy.soerenschneider.com/tags/asian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>lentils</title>
-      <link>https://yummy.soerenschneider.com/tags/lentils/</link>
-      <pubDate>Mon, 22 Feb 2021 13:03:48 +0100</pubDate>
-      
-      <guid>https://yummy.soerenschneider.com/tags/lentils/</guid>
       <description></description>
     </item>
     
@@ -491,15 +500,6 @@
       <pubDate>Sun, 05 Jul 2020 11:27:45 +0200</pubDate>
       
       <guid>https://yummy.soerenschneider.com/tags/tofu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sweetpotatoe</title>
-      <link>https://yummy.soerenschneider.com/tags/sweetpotatoe/</link>
-      <pubDate>Fri, 05 Jul 2019 11:40:26 +0200</pubDate>
-      
-      <guid>https://yummy.soerenschneider.com/tags/sweetpotatoe/</guid>
       <description></description>
     </item>
     
