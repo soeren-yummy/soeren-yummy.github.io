@@ -2,28 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://yummy.soerenschneider.com/tags/bulgur/</loc>
+    <lastmod>2021-09-07T22:13:44+02:00</lastmod>
+  </url><url>
+    <loc>https://yummy.soerenschneider.com/categories/</loc>
+    <lastmod>2021-09-07T22:13:44+02:00</lastmod>
+  </url><url>
+    <loc>https://yummy.soerenschneider.com/receipes/kisir/</loc>
+    <lastmod>2021-09-07T22:13:44+02:00</lastmod>
+  </url><url>
+    <loc>https://yummy.soerenschneider.com/categories/main/</loc>
+    <lastmod>2021-09-07T22:13:44+02:00</lastmod>
+  </url><url>
+    <loc>https://yummy.soerenschneider.com/receipes/</loc>
+    <lastmod>2021-09-07T22:13:44+02:00</lastmod>
+  </url><url>
+    <loc>https://yummy.soerenschneider.com/tags/salad/</loc>
+    <lastmod>2021-09-07T22:13:44+02:00</lastmod>
+  </url><url>
+    <loc>https://yummy.soerenschneider.com/tags/</loc>
+    <lastmod>2021-09-07T22:13:44+02:00</lastmod>
+  </url><url>
+    <loc>https://yummy.soerenschneider.com/tags/turkish/</loc>
+    <lastmod>2021-09-07T22:13:44+02:00</lastmod>
+  </url><url>
+    <loc>https://yummy.soerenschneider.com/tags/vegan/</loc>
+    <lastmod>2021-09-07T22:13:44+02:00</lastmod>
+  </url><url>
+    <loc>https://yummy.soerenschneider.com/tags/vegetables/</loc>
+    <lastmod>2021-09-07T22:13:44+02:00</lastmod>
+  </url><url>
+    <loc>https://yummy.soerenschneider.com/tags/vegetarian/</loc>
+    <lastmod>2021-09-07T22:13:44+02:00</lastmod>
+  </url><url>
+    <loc>https://yummy.soerenschneider.com/</loc>
+    <lastmod>2021-09-07T22:13:44+02:00</lastmod>
+  </url><url>
+    <loc>https://yummy.soerenschneider.com/receipes/lentil-salad/</loc>
+    <lastmod>2021-09-07T22:01:32+02:00</lastmod>
+  </url><url>
+    <loc>https://yummy.soerenschneider.com/tags/lentils/</loc>
+    <lastmod>2021-09-07T22:01:32+02:00</lastmod>
+  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/curry/</loc>
     <lastmod>2021-05-09T21:53:38+02:00</lastmod>
   </url><url>
     <loc>https://yummy.soerenschneider.com/tags/indian/</loc>
     <lastmod>2021-05-09T21:53:38+02:00</lastmod>
   </url><url>
-    <loc>https://yummy.soerenschneider.com/tags/lentils/</loc>
-    <lastmod>2021-05-09T21:53:38+02:00</lastmod>
-  </url><url>
-    <loc>https://yummy.soerenschneider.com/receipes/</loc>
-    <lastmod>2021-05-09T21:53:38+02:00</lastmod>
-  </url><url>
     <loc>https://yummy.soerenschneider.com/tags/sweetpotatoe/</loc>
     <lastmod>2021-05-09T21:53:38+02:00</lastmod>
   </url><url>
     <loc>https://yummy.soerenschneider.com/receipes/sweetpotatoe-curry/</loc>
-    <lastmod>2021-05-09T21:53:38+02:00</lastmod>
-  </url><url>
-    <loc>https://yummy.soerenschneider.com/tags/</loc>
-    <lastmod>2021-05-09T21:53:38+02:00</lastmod>
-  </url><url>
-    <loc>https://yummy.soerenschneider.com/</loc>
     <lastmod>2021-05-09T21:53:38+02:00</lastmod>
   </url><url>
     <loc>https://yummy.soerenschneider.com/tags/dessert/</loc>
@@ -68,19 +98,7 @@
     <loc>https://yummy.soerenschneider.com/tags/asian/</loc>
     <lastmod>2021-02-22T13:03:48+01:00</lastmod>
   </url><url>
-    <loc>https://yummy.soerenschneider.com/categories/</loc>
-    <lastmod>2021-02-22T13:03:48+01:00</lastmod>
-  </url><url>
     <loc>https://yummy.soerenschneider.com/receipes/dal-lemon-rice/</loc>
-    <lastmod>2021-02-22T13:03:48+01:00</lastmod>
-  </url><url>
-    <loc>https://yummy.soerenschneider.com/categories/main/</loc>
-    <lastmod>2021-02-22T13:03:48+01:00</lastmod>
-  </url><url>
-    <loc>https://yummy.soerenschneider.com/tags/vegetables/</loc>
-    <lastmod>2021-02-22T13:03:48+01:00</lastmod>
-  </url><url>
-    <loc>https://yummy.soerenschneider.com/tags/vegetarian/</loc>
     <lastmod>2021-02-22T13:03:48+01:00</lastmod>
   </url><url>
     <loc>https://yummy.soerenschneider.com/tags/oriental/</loc>
@@ -96,9 +114,6 @@
     <lastmod>2020-12-21T09:43:07+01:00</lastmod>
   </url><url>
     <loc>https://yummy.soerenschneider.com/receipes/roasted-eggplant/</loc>
-    <lastmod>2020-12-21T09:43:07+01:00</lastmod>
-  </url><url>
-    <loc>https://yummy.soerenschneider.com/tags/vegan/</loc>
     <lastmod>2020-12-21T09:43:07+01:00</lastmod>
   </url><url>
     <loc>https://yummy.soerenschneider.com/tags/coffee/</loc>
@@ -201,9 +216,6 @@
     <lastmod>2020-07-07T11:18:39+02:00</lastmod>
   </url><url>
     <loc>https://yummy.soerenschneider.com/receipes/korean-cucumber-salad/</loc>
-    <lastmod>2020-07-07T11:18:39+02:00</lastmod>
-  </url><url>
-    <loc>https://yummy.soerenschneider.com/tags/salad/</loc>
     <lastmod>2020-07-07T11:18:39+02:00</lastmod>
   </url><url>
     <loc>https://yummy.soerenschneider.com/tags/side-dish/</loc>
