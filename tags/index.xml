@@ -7,7 +7,52 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Sören Schneider</copyright>
-    <lastBuildDate>Tue, 07 Sep 2021 22:13:44 +0200</lastBuildDate><atom:link href="https://yummy.soerenschneider.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Sep 2021 22:17:42 +0200</lastBuildDate><atom:link href="https://yummy.soerenschneider.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>aubergine</title>
+      <link>https://yummy.soerenschneider.com/tags/aubergine/</link>
+      <pubDate>Thu, 09 Sep 2021 22:17:42 +0200</pubDate>
+      
+      <guid>https://yummy.soerenschneider.com/tags/aubergine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eggplant</title>
+      <link>https://yummy.soerenschneider.com/tags/eggplant/</link>
+      <pubDate>Thu, 09 Sep 2021 22:17:42 +0200</pubDate>
+      
+      <guid>https://yummy.soerenschneider.com/tags/eggplant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>paste</title>
+      <link>https://yummy.soerenschneider.com/tags/paste/</link>
+      <pubDate>Thu, 09 Sep 2021 22:17:42 +0200</pubDate>
+      
+      <guid>https://yummy.soerenschneider.com/tags/paste/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vegetables</title>
+      <link>https://yummy.soerenschneider.com/tags/vegetables/</link>
+      <pubDate>Thu, 09 Sep 2021 22:17:42 +0200</pubDate>
+      
+      <guid>https://yummy.soerenschneider.com/tags/vegetables/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vegetarian</title>
+      <link>https://yummy.soerenschneider.com/tags/vegetarian/</link>
+      <pubDate>Thu, 09 Sep 2021 22:17:42 +0200</pubDate>
+      
+      <guid>https://yummy.soerenschneider.com/tags/vegetarian/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>bulgur</title>
       <link>https://yummy.soerenschneider.com/tags/bulgur/</link>
@@ -41,24 +86,6 @@
       <pubDate>Tue, 07 Sep 2021 22:13:44 +0200</pubDate>
       
       <guid>https://yummy.soerenschneider.com/tags/vegan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vegetables</title>
-      <link>https://yummy.soerenschneider.com/tags/vegetables/</link>
-      <pubDate>Tue, 07 Sep 2021 22:13:44 +0200</pubDate>
-      
-      <guid>https://yummy.soerenschneider.com/tags/vegetables/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vegetarian</title>
-      <link>https://yummy.soerenschneider.com/tags/vegetarian/</link>
-      <pubDate>Tue, 07 Sep 2021 22:13:44 +0200</pubDate>
-      
-      <guid>https://yummy.soerenschneider.com/tags/vegetarian/</guid>
       <description></description>
     </item>
     
@@ -203,15 +230,6 @@
       <pubDate>Sat, 20 Feb 2021 10:46:22 +0100</pubDate>
       
       <guid>https://yummy.soerenschneider.com/tags/oriental/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>eggplant</title>
-      <link>https://yummy.soerenschneider.com/tags/eggplant/</link>
-      <pubDate>Mon, 21 Dec 2020 09:43:07 +0100</pubDate>
-      
-      <guid>https://yummy.soerenschneider.com/tags/eggplant/</guid>
       <description></description>
     </item>
     
