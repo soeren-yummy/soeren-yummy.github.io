@@ -7,7 +7,52 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Sören Schneider</copyright>
-    <lastBuildDate>Sun, 26 Sep 2021 13:57:55 +0200</lastBuildDate><atom:link href="https://yummy.soerenschneider.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Sep 2021 14:12:52 +0200</lastBuildDate><atom:link href="https://yummy.soerenschneider.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>german</title>
+      <link>https://yummy.soerenschneider.com/tags/german/</link>
+      <pubDate>Sun, 26 Sep 2021 14:12:52 +0200</pubDate>
+      
+      <guid>https://yummy.soerenschneider.com/tags/german/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>potatoe</title>
+      <link>https://yummy.soerenschneider.com/tags/potatoe/</link>
+      <pubDate>Sun, 26 Sep 2021 14:12:52 +0200</pubDate>
+      
+      <guid>https://yummy.soerenschneider.com/tags/potatoe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>traditional</title>
+      <link>https://yummy.soerenschneider.com/tags/traditional/</link>
+      <pubDate>Sun, 26 Sep 2021 14:12:52 +0200</pubDate>
+      
+      <guid>https://yummy.soerenschneider.com/tags/traditional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vegetables</title>
+      <link>https://yummy.soerenschneider.com/tags/vegetables/</link>
+      <pubDate>Sun, 26 Sep 2021 14:12:52 +0200</pubDate>
+      
+      <guid>https://yummy.soerenschneider.com/tags/vegetables/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vegetarian</title>
+      <link>https://yummy.soerenschneider.com/tags/vegetarian/</link>
+      <pubDate>Sun, 26 Sep 2021 14:12:52 +0200</pubDate>
+      
+      <guid>https://yummy.soerenschneider.com/tags/vegetarian/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>pumpkin</title>
       <link>https://yummy.soerenschneider.com/tags/pumpkin/</link>
@@ -45,15 +90,6 @@
     </item>
     
     <item>
-      <title>vegetarian</title>
-      <link>https://yummy.soerenschneider.com/tags/vegetarian/</link>
-      <pubDate>Sun, 26 Sep 2021 13:57:55 +0200</pubDate>
-      
-      <guid>https://yummy.soerenschneider.com/tags/vegetarian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>aubergine</title>
       <link>https://yummy.soerenschneider.com/tags/aubergine/</link>
       <pubDate>Thu, 09 Sep 2021 22:17:42 +0200</pubDate>
@@ -77,15 +113,6 @@
       <pubDate>Thu, 09 Sep 2021 22:17:42 +0200</pubDate>
       
       <guid>https://yummy.soerenschneider.com/tags/paste/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vegetables</title>
-      <link>https://yummy.soerenschneider.com/tags/vegetables/</link>
-      <pubDate>Thu, 09 Sep 2021 22:17:42 +0200</pubDate>
-      
-      <guid>https://yummy.soerenschneider.com/tags/vegetables/</guid>
       <description></description>
     </item>
     
@@ -279,29 +306,11 @@
     </item>
     
     <item>
-      <title>german</title>
-      <link>https://yummy.soerenschneider.com/tags/german/</link>
-      <pubDate>Fri, 18 Dec 2020 14:29:17 +0100</pubDate>
-      
-      <guid>https://yummy.soerenschneider.com/tags/german/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>sweets</title>
       <link>https://yummy.soerenschneider.com/tags/sweets/</link>
       <pubDate>Fri, 18 Dec 2020 14:29:17 +0100</pubDate>
       
       <guid>https://yummy.soerenschneider.com/tags/sweets/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>traditional</title>
-      <link>https://yummy.soerenschneider.com/tags/traditional/</link>
-      <pubDate>Fri, 18 Dec 2020 14:29:17 +0100</pubDate>
-      
-      <guid>https://yummy.soerenschneider.com/tags/traditional/</guid>
       <description></description>
     </item>
     
